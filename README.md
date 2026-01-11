@@ -27,3 +27,7 @@ Built using Python with requests for HTTP operations, socket for network communi
 Educational Value:
 Demonstrates practical application of cybersecurity testing methodologies while emphasizing ethical usage for authorized environments only. Provides hands-on experience with common penetration testing techniques used in real-world security assessments.
 Use Case: Security professionals, ethical hackers, and developers can use this toolkit to identify security weaknesses in their own systems, promoting proactive security hardening and awareness.
+
+##output
+
+![Image](https://github.com/user-attachments/assets/f73ad7d1-106d-4815-aae0-6dd70b79614c)
