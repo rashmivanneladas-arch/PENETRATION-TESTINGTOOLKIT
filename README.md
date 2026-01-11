@@ -24,6 +24,7 @@ Key Modules:
 4. Brute Forcer - Tests authentication systems with common password dictionaries
 Technical Implementation:
 Built using Python with requests for HTTP operations, socket for network communication, and integrated error handling. Features a color-coded command-line interface with clear reporting and demo-safe testing capabilities.
+Built using Python with requests for HTTP operations, socket for network communication, and integrated error handling. Features a color-coded command-line interface with clear reporting and demo-safe testing capabilities.
 Educational Value:
 Demonstrates practical application of cybersecurity testing methodologies while emphasizing ethical usage for authorized environments only. Provides hands-on experience with common penetration testing techniques used in real-world security assessments.
 Use Case: Security professionals, ethical hackers, and developers can use this toolkit to identify security weaknesses in their own systems, promoting proactive security hardening and awareness.
@@ -35,4 +36,3 @@ Use Case: Security professionals, ethical hackers, and developers can use this t
 ![Image](https://github.com/user-attachments/assets/2287c278-3056-4863-ad25-5df1c4e2858f)
 
 ![Image](https://github.com/user-attachments/assets/03a1d599-c09a-4e53-a9c4-cc7bf9f9bc77)
-
